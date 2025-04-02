@@ -1,4 +1,4 @@
-# <p align="center"> <b> Curso: Otimização - Implementando a programação linear </b> 
+# <p align="center"> <b> Curso: Git e GitHub - Controle de Versão e Colaboração</b> 
 
 ####  ✏️ Curso da plataforma <a href="https://hub.asimov.academy/curso/git-e-github/">Asimov Academy</a> 
 ####  ⏰ Duração: 7h 
