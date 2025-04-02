@@ -1,2 +1,3 @@
-mensagem = 'hello git e VSCode'
-print(mensagem)
+from mensagem import printa_mensagem
+
+print(printa_mensagem())
