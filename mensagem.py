@@ -1,3 +1,3 @@
 
 def printa_mensagem():
-    return 'Hello world, utilizando git e VSCode'
+    return 'Hello world, utilizando Git com VSCode'
