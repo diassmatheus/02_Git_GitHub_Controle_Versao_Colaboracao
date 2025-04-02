@@ -1,3 +1,3 @@
-from mensagem import printa_mensagem
+from mensagem import printa_mensagem, versao
 
-print(printa_mensagem())
+print(f'Versão {versao}: {printa_mensagem()}')
