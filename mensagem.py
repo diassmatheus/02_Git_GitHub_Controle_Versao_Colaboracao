@@ -1,7 +1,5 @@
 
 def printa_mensagem():
-    return 'Hello world, utilizando Git com VSCode'
+    return 'Hello world, utilizando Git com VSCode e GitHub. (Nova ramificação)'
 
-print(printa_mensagem())
-
-print('Branch com novo print adicionado')
+versao = "nova_ramificacao"
